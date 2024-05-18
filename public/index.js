@@ -23,7 +23,7 @@ const songs = [
     title: 'Vây Giữ',
     artist: '王靖雯不胖',
     artwork:
-      'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b38436ad-99d3-45ca-9e56-f6afe58e83a9/dg3qriw-de5c37e1-9ebd-495d-aa1a-b04a3c804525.jpg/v1/fit/w_600,h_1000,q_70,strp/__by_gb5555_dg3qriw-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcL2IzODQzNmFkLTk5ZDMtNDVjYS05ZTU2LWY2YWZlNThlODNhOVwvZGczcXJpdy1kZTVjMzdlMS05ZWJkLTQ5NWQtYWExYS1iMDRhM2M4MDQ1MjUuanBnIiwid2lkdGgiOiI8PTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RTEEFwBr9ysHDtoatF2eKo7OIZUWIFMlOioUbeb8BMc',
+      'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5e512089-0948-420a-ad1e-3f38d42e45cb/dg5f0tp-bb5faeda-38d0-4dfd-b5e7-d7768487cc03.jpg/v1/fit/w_828,h_1182,q_70,strp/cold_heart_by_paranormal_ghouls_dg5f0tp-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzVlNTEyMDg5LTA5NDgtNDIwYS1hZDFlLTNmMzhkNDJlNDVjYlwvZGc1ZjB0cC1iYjVmYWVkYS0zOGQwLTRkZmQtYjVlNy1kNzc2ODQ4N2NjMDMuanBnIiwid2lkdGgiOiI8PTg5NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.mybrf_f9PtLUbTr12MxxItMNpfvtvJJk052-u5boOYg',
     url: 'https://firebasestorage.googleapis.com/v0/b/schedule-5555.appspot.com/o/Y2meta.app%20-%20%5BVietsub%5D%20V%C3%A2y%20Gi%E1%BB%AF%20-%20V%C6%B0%C6%A1ng%20T%C4%A9nh%20V%C4%83n%20Kh%C3%B4ng%20M%E1%BA%ADp%20_%20%E6%B2%A6%E9%99%B7%20-%20%E7%8E%8B%E9%9D%96%E9%9B%AF%E4%B8%8D%E8%83%96%20(256%20kbps).mp3?alt=media&token=e31f689f-a004-4579-8945-67f360bf523c',
     category: '1',
   },
@@ -59,7 +59,7 @@ const songs = [
     title: 'Em Của Ngày Hôm Qua',
     artist: 'MTP',
     artwork:
-      'https://firebasestorage.googleapis.com/v0/b/musicapp-8c6fe.appspot.com/o/Image%2FEm_c%E1%BB%A7a_ng%C3%A0y_h%C3%B4m_qua.png?alt=media&token=84ee4a3d-34c3-44bf-9a00-089ec3e87dc6',
+      'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99d81a61-4db2-4378-aef3-f2db4fda0687/dhf7ukd-6fd8db88-f96e-492c-9291-fe9306e74fe7.jpg/v1/fit/w_828,h_1486,q_70,strp/high_quality_detailed_illustration_of_a_fantastic__by_stunningimages_dhf7ukd-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI5OCIsInBhdGgiOiJcL2ZcLzk5ZDgxYTYxLTRkYjItNDM3OC1hZWYzLWYyZGI0ZmRhMDY4N1wvZGhmN3VrZC02ZmQ4ZGI4OC1mOTZlLTQ5MmMtOTI5MS1mZTkzMDZlNzRmZTcuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ZWQA940Rzy5TxNm-2t-8YqsdfKlLZ78ktWYDscm1F34',
     url: 'https://firebasestorage.googleapis.com/v0/b/musicapp-8c6fe.appspot.com/o/songs%2FEmCuaNgayHomQua.mp3?alt=media&token=6cb1c7bd-8434-4bc7-9988-7f3eca1e28f4',
     category: '1',
   },
@@ -77,7 +77,7 @@ const songs = [
     title: 'Vở Kịch Của Em',
     artist: 'Tất Cả Nghệ Sĩ',
     artwork:
-      'https://wx3.sinaimg.cn/mw690/0073ZC6sgy1hphad2z0eej30qo11u7ca.jpg',
+      'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6782c1d8-7c4d-474e-a863-8b1acd9c3307/dgeccor-68d23bdb-9baa-4b69-829d-79b18daedc4d.png/v1/fit/w_720,h_680,q_70,strp/hi__by_toradoromon_dgeccor-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjgwIiwicGF0aCI6IlwvZlwvNjc4MmMxZDgtN2M0ZC00NzRlLWE4NjMtOGIxYWNkOWMzMzA3XC9kZ2VjY29yLTY4ZDIzYmRiLTliYWEtNGI2OS04MjlkLTc5YjE4ZGFlZGM0ZC5wbmciLCJ3aWR0aCI6Ijw9NzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.JlEeIBqoTjrvEbHGQ6J2C_MLVL94mAqCyMlT0lkgj6Y',
     url: 'https://firebasestorage.googleapis.com/v0/b/schedule-5555.appspot.com/o/Y2meta.app%20-%20V%E1%BB%9F%20K%E1%BB%8Bch%20C%E1%BB%A7a%20Em%20ft%20V%C3%A2y%20Gi%E1%BB%AF%20Remix%20-%20(%20HuyN%20x%20Tr%C6%B0%E1%BB%9Dng%20Alex%20)%20%F0%9F%8D%91%20Th%E1%BA%ADt%20qu%C3%A1%20kh%C3%B3%20%C4%91%E1%BB%83%20anh%20qu%C3%AAn%20ng%C6%B0%E1%BB%9Di%20remix%20(256%20kbps).mp3?alt=media&token=6bc5f4c4-4729-4c65-b73b-1fd1a4250e13',
     category: '1',
   },
@@ -147,7 +147,7 @@ function showPlaylist() {
   playlist.innerHTML = htmls.join('');
 }
 
-//Render bài hát đang phát đầu tiên
+// Render the first song playing
 function theSongIsPlaying() {
   var currentSong = songs[currentIndex];
   heading.textContent = currentSong.title;
@@ -155,16 +155,16 @@ function theSongIsPlaying() {
   audio.src = currentSong.url;
 }
 
-//Xử lí phát nhạc + quay đĩa nhạc
+// Handle music playback + spin music discs
 function handleMusicPlayback() {
-  //Xử lí quay đĩa nhạc
+  // Handle spinning music discs
   const cdThumbAnimate = cdThumb.animate([{ transform: 'rotate(360deg)' }], {
     duration: 10000,
     iterations: Infinity,
   });
   cdThumbAnimate.pause();
 
-  // Xử lí phát nhạc
+  // Handle music playback
   playBtn.onclick = function () {
     isPlaying ? audio.pause() : audio.play();
   };
@@ -182,14 +182,14 @@ function handleMusicPlayback() {
   };
 }
 
-//Xử lí thời gian phát nhạc
+// Handle music playback time
 function timer() {
   audio.ontimeupdate = function () {
     progress.value = (Math.floor(audio.currentTime) * 100) / audio.duration;
   };
 }
 
-//Xử lí khi tua bài hát dựa trên số giây thay đổi
+// Handle rewinding the song based on the number of seconds changed
 function changeTime() {
   progress.oninput = function (e) {
     let desiredTime = e.target.value;
@@ -197,7 +197,7 @@ function changeTime() {
   };
 }
 
-//Tiến tới 1 bài hát
+// Go forward one song
 function nextSong() {
   nextBtn.onclick = function () {
     if (isRandom) {
@@ -212,7 +212,7 @@ function nextSong() {
   };
 }
 
-//Lùi về 1 bài hát
+// Backward 1 song
 function prevSong() {
   prevBtn.onclick = function () {
     if (isRandom) {
@@ -227,24 +227,15 @@ function prevSong() {
   };
 }
 
-// Đổi màu khi Random một bài hát
+// Change color when Random a song
 function randomSong() {
   randomBtn.onclick = function () {
-    //     if (isRandom) {
-    //         isRandom = false
-    //         randomBtn.classList.remove('active')
-    //     }
-    //     else {
-    //         isRandom = true
-    //         randomBtn.classList.add('active')
-    //     }
-
     isRandom = !isRandom;
     randomBtn.classList.toggle('active', isRandom);
   };
 }
 
-// Random một bài hát
+// Random a song
 function playRandomSong() {
   let newIndex;
   do {
@@ -253,7 +244,7 @@ function playRandomSong() {
   currentIndex = newIndex;
 }
 
-//Lặp lại một bài hát
+// Repeat a song
 function repeatSong() {
   repeatBtn.onclick = function () {
     if (isRepeat) {
@@ -265,17 +256,10 @@ function repeatSong() {
       audio.loop = true;
       audio.play();
     }
-
-    // isRepeat = !isRepeat
-    // repeatBtn.classList.toggle('active', isRepeat)
-
-    // audio.onended = function(){
-    //     isRepeat ? audio.play() : nextBtn.click()
-    // }
   };
 }
 
-//Di chuyển khung hình theo bài hát đang phát
+// Move the frame according to the song being played
 function scrollToActiveSong() {
   setTimeout(() => {
     $('.song.active').scrollIntoView({
@@ -287,13 +271,11 @@ function scrollToActiveSong() {
 
 function clickSong() {
   playlist.onclick = function (e) {
-    //Không tìm được chính nó, nó sẽ trả về thằng cha hoặc thằng con của nó: e.target.closest(element)
+    // If it cannot find itself, it will return its parent or child: e.target.closest(element)
     let notSongActive = e.target.closest('.song:not(.active)');
     let notSongOption = e.target.closest('.option');
     if (notSongActive || notSongOption) {
       if (notSongActive) {
-        // console.log(notSongActive.getAttribute('data-index'))
-        // console.log(notSongActive.dataset.index)
         currentIndex = Number(notSongActive.dataset.index);
         theSongIsPlaying();
         audio.play();
