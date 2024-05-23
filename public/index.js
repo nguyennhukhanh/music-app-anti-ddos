@@ -128,7 +128,7 @@ function start() {
 }
 start();
 
-//Render danh sách bài hát
+// // Render song list
 function showPlaylist() {
   const htmls = songs.map((song, index) => {
     return `<div class="song${index === currentIndex ? ' active' : ''}" data-index=${index}>

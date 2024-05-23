@@ -1,5 +1,4 @@
-import { Controller, Get, Render, UseGuards } from '@nestjs/common';
-import { Throttle, ThrottlerGuard } from '@nestjs/throttler';
+import { Controller, Get, Render } from '@nestjs/common';
 
 @Controller()
 export class AppController {
@@ -7,8 +6,6 @@ export class AppController {
 
   @Get()
   @Render('index')
-  @UseGuards(ThrottlerGuard)
-  @Throttle({ default: { limit: 100, ttl: 60000 } })
   root() {
     return { message: 'This is my album!' };
   }
